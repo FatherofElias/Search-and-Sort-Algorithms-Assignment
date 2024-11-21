@@ -1,0 +1,2 @@
+The Flask api seems to work as intended and if it gets a video that is not in 
+the program it simply puts out the message that the video is not found.
